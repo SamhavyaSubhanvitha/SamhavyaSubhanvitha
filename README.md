@@ -69,10 +69,10 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://in.linkedin.com/in/samhavyasubhanvitha">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:samhavya10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SamhavyaSubhanvitha">
