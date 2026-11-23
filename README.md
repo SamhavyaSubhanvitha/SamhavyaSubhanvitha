@@ -45,11 +45,40 @@
 </p>
 
 
+## 🌱 Currently Learning
+
+- Advanced Machine Learning and Deep Learning
+- Building scalable full-stack applications
+- AI integration in web applications
+- Data Structures and Algorithms
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SamhavyaSubhanvitha&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SamhavyaSubhanvitha&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SamhavyaSubhanvitha&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamhavyaSubhanvitha/SamhavyaSubhanvitha/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SamhavyaSubhanvitha">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 
