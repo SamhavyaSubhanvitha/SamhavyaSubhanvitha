@@ -1,121 +1,21 @@
-<h1 align="center">Hi 👋, I'm Samhavya Subhanvitha</h1>
-<h3 align="center">AI/ML Engineer | Full-Stack Developer</h3>
+# 💫 About Me:
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) student at **ANITS**<br>💻 Aspiring **AI/ML Engineer and Full-Stack Developer**<br>🚀 Successfully completed my **Full-Stack Web Development Internship at EduMoon**<br>🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning and intelligent applications<br>🌐 Enjoy building responsive websites and full-stack applications<br>🌱 Always learning, experimenting and improving my technical skills<br>🎯 Passionate about turning innovative ideas into real-world solutions<br>
 
-<p align="center">
-  Passionate about building intelligent solutions and impactful web applications.
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamhavyaSubhanvitha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samhavyasubhanvitha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samhavya10@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SamhavyaSubhanvitha&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SamhavyaSubhanvitha&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SamhavyaSubhanvitha&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 👩‍💻 About Me
-
-- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) student at **ANITS**
-- 💻 Aspiring **AI/ML Engineer and Full-Stack Developer**
-- 🚀 Successfully completed my **Full-Stack Web Development Internship at EduMoon**
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning and intelligent applications
-- 🌐 Enjoy building responsive websites and full-stack applications
-- 🌱 Always learning, experimenting and improving my technical skills
-- 🎯 Passionate about turning innovative ideas into real-world solutions
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SamhavyaSubhanvitha&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SamhavyaSubhanvitha&icon=3&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
-</p>
-
-### Web Development & Database
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI & Machine Learning
-
-| Project | Description |
-|---|---|
-| [Breast Cancer AI Diagnosis](https://github.com/SamhavyaSubhanvitha/breast-cancer-ai-diagnosis) | Deep learning-based breast cancer detection using histopathology images. |
-| [Health Insurance Predictor](https://github.com/SamhavyaSubhanvitha/health_insurance_predictor) | Predicts health insurance purchase using machine learning classification algorithms. |
-| [Energy Demand Forecasting](https://github.com/SamhavyaSubhanvitha/Energy-Demand-Forecasting) | Machine learning project focused on energy demand forecasting. |
-| [GramUdyam AI](https://github.com/SamhavyaSubhanvitha/gramudyam-ai) | AI-focused project. |
-
-### 🌐 Full-Stack & Web Development
-
-| Project | Description |
-|---|---|
-| [BookNest](https://github.com/SamhavyaSubhanvitha/BookNest-Smart-Library-Ecommerce-Portal) | Smart Library and Book E-commerce application built with Node.js, Express.js and MongoDB. |
-| [Personal Portfolio](https://github.com/SamhavyaSubhanvitha/Portfolio) | Personal portfolio website built using HTML, CSS and JavaScript. |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamhavyaSubhanvitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamhavyaSubhanvitha&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamhavyaSubhanvitha&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 My Development Journey
-
-- 📚 Learning and exploring AI/ML technologies.
-- 💻 Building practical full-stack web applications.
-- 🧠 Experimenting with machine learning and deep learning projects.
-- 🎓 Completed Full-Stack Web Development Internship at EduMoon.
-- 🚀 Continuously improving through hands-on projects and learning.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/SamhavyaSubhanvitha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>✨ Learning. Building. Innovating. Growing. ✨</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! 😊
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
